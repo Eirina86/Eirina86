@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: cazacuirina@ymail.com 
-- 😄 Pronouns: 
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
 <!---
