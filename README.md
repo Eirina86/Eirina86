@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eirina86
+- 👋 Hi, I’m Irina (@Eirina86)
 - 👀 I’m interested in Cloud Data Engineering
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
