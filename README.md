@@ -46,6 +46,11 @@
 
 🌐 **Languages:** · English · Romanian · French
 
+---
+
+![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eirina86&show_icons=true&theme=dark&hide_border=true)
+
+
 
 
 <!---
