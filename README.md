@@ -4,7 +4,8 @@
 
 ---
 
-🔭 **Currently building:** A Microsoft Fabric data engineering portfolio - 4 end-to-end projects covering Lakehouses, pipelines, real-time analytics (KQL), security & governance, and a hybrid Linux homelab connected to Azure
+🔭 **Currently building:** A Microsoft Fabric data engineering portfolio - 4 end-to-end projects covering Lakehouses, pipelines, real-time analytics (KQL), security & governance
+                           A hybrid Linux homelab connected to Azure
 
 🌱 **Currently learning:** DP-700 — Microsoft Fabric Data Engineer Associate (target: December 2026 - January 2027)
 
