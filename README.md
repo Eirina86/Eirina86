@@ -12,7 +12,7 @@
 
 💼 **Background:** Chemical Engineer · 20 years Retail Operations Leadership · Night Shift Operation Management
 
-🛠️ **Tech stack:** Microsoft Fabric · PySpark · Delta Lake · T-SQL · KQL · Power BI · Azure Data Studio · Git · Linux (Ubuntu) · Docker · Tailscale
+🛠️ **Tech stack:** · Microsoft Fabric · PySpark · Delta Lake · T-SQL · KQL · Power BI · Azure Data Studio · Git · Linux (Ubuntu) · Docker · Tailscale · and more to learn · 
 
 📫 **Reach me:** cazacuirina@ymail.com
 
