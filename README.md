@@ -10,7 +10,7 @@
 
 💼 **Background:** Chemical Engineer · 20 years Retail Operations Leadership · Night Shift Operation Management
 
-🛠️ **Tech stack:** Microsoft Fabric · PySpark · Delta Lake · T-SQL · KQL · Power BI · Azure Data Studio · Git
+🛠️ **Tech stack:** Microsoft Fabric · PySpark · Delta Lake · T-SQL · KQL · Power BI · Azure Data Studio · Git · Linux (Ubuntu) · Docker · Tailscale
 
 📫 **Reach me:** cazacuirina@ymail.com
 
@@ -26,6 +26,12 @@
 | [02 — End-to-End Pipeline](https://github.com/Eirina86/Irina_Cazacu/tree/main/projects/02-pipeline-e2e) | Incremental load · orchestration · Power BI Direct Lake | ⏳ Planned |
 | [03 — Real-Time Analytics](https://github.com/Eirina86/Irina_Cazacu/tree/main/projects/03-streaming-kql) | Eventstream → Eventhouse → KQL anomaly detection | ⏳ Planned |
 | [04 — Security Framework](https://github.com/Eirina86/Irina_Cazacu/tree/main/projects/04-security-rls) | RLS · sensitivity labels · OneLake access roles | ⏳ Planned |
+
+### 🖥️ Infrastructure & Labs
+
+| Project | Description | Status |
+|---|---|---|
+| [Homelab: Hybrid Linux Server](https://github.com/Eirina86/homelab-azure-hybrid) | Ubuntu server · Tailscale zero-trust access · Docker · Azure Arc · restic → Azure Blob | 🔄 Phase 1 complete |
 
 ---
 
