@@ -4,7 +4,7 @@
 
 ---
 
-🔭 **Currently building:** 🔭 **Currently building:**
+🔭 **Currently building:**
 - **A Microsoft Fabric data engineering portfolio:** 4 end-to-end projects covering Lakehouses, pipelines, real-time analytics (KQL), and security & governance
 - **A hybrid Linux homelab connected to Azure:** Ubuntu server with Tailscale zero-trust access, Docker, Azure Arc and encrypted backups to Azure Blob
 
