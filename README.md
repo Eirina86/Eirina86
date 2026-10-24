@@ -1,4 +1,4 @@
-# Hello, I'm Irina 👋
+# Hello, I'm Irina 👋      
 
 **Azure & Microsoft Fabric Data Engineer in transition** · Chemical Engineer · 20 years of retail operations leadership
 
