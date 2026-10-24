@@ -12,11 +12,35 @@
 
 💼 **Background:** Chemical Engineer · 20 years Retail Operations Leadership · Night Shift Operation Management
 
-🛠️ **Tech stack:** · Microsoft Fabric · PySpark · Delta Lake · T-SQL · KQL · Power BI · Azure Data Studio · Git · Linux (Ubuntu) · Docker · Tailscale · and more to learn · 
-
 📫 **Reach me:** cazacuirina@ymail.com
 
 🌍 **Open to:** Freelance data engineering projects & full-time Azure Data Engineer roles — UK and worldwide · On-site · Hybrid · Remote
+
+---
+
+### 🛠️ Skills & Tools
+
+**Data & cloud**
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge)
+![KQL](https://img.shields.io/badge/KQL-5C2D91?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
@@ -33,7 +57,7 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [Homelab: Hybrid Linux Server](https://github.com/Eirina86/homelab-azure-hybrid) | Ubuntu server · Tailscale zero-trust access · Docker · Azure Arc · restic → Azure Blob | 🔄 Phase 1 complete |
+| [Homelab: Hybrid Linux Server](https://github.com/Eirina86/homelab-azure-hybrid) | Ubuntu server · Tailscale zero-trust access · Docker · Azure Arc · restic → Azure Blob | 🔄 Phase 2 complete |
 
 ---
 
