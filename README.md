@@ -86,6 +86,7 @@
 
 | Project | Description | Status |
 |---|---|---|
+| [Microsoft Fabric DP-700 labs](https://github.com/Eirina86/fabric-dp700-labs) | Hands-on Fabric labs · PySpark · Delta · Lakehouse · synced with Fabric Git integration | 🔄 In progress |
 | [Homelab: Hybrid Linux Server](https://github.com/Eirina86/homelab-azure-hybrid) | Ubuntu server · Tailscale zero-trust access · SSH hardening · Docker · Azure Arc · restic → Azure Blob | 🔄 Phase 2 complete |
 
 ---
