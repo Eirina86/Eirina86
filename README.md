@@ -16,13 +16,6 @@
 <a href="https://github.com/Eirina86"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-### 📊 My GitHub stats
-
-<p>
-<a href="https://github.com/Eirina86"><img height="165" alt="Irina's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eirina86&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&theme=tokyonight"/></a>
-<a href="https://github.com/Eirina86"><img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirina86&layout=compact&langs_count=6&theme=tokyonight"/></a>
-</p>
-
 ### 🛠️ Some of my skills
 
 **Data engineering & analytics**
