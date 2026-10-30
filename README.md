@@ -68,7 +68,7 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/8A20459994C98B6D?sharingId=8B61E949E106516B"><img alt="AZ-900 certified" src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/3B565E786A114DB2?sharingId=8B61E949E106516B"><img alt="DP-900 certified" src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge"/></a>
 <img alt="DP-700 in progress" src="https://img.shields.io/badge/DP--700-in%20progress-F2A900?style=for-the-badge"/>
-<img alt="Firebrand bootcamp" src="https://img.shields.io/badge/Firebrand-Azure%20Data%20Engineer%20Bootcamp-5C2D91?style=for-the-badge"/>
+<img alt="DP-600 planned" src="https://img.shields.io/badge/DP--600-planned-6E7681?style=for-the-badge"/>
 </p>
 
 ---
