@@ -16,13 +16,6 @@
 <a href="https://github.com/Eirina86"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-### 📊 My GitHub stats
-
-<p>
-<a href="https://github.com/Eirina86"><img height="165" alt="Irina's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eirina86&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&theme=tokyonight"/></a>
-<a href="https://github.com/Eirina86"><img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirina86&layout=compact&langs_count=6&theme=tokyonight"/></a>
-</p>
-
 ### 🛠️ Some of my skills
 
 **Data engineering & analytics**
@@ -72,6 +65,8 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/3B565E786A114DB2?sharingId=8B61E949E106516B"><img alt="DP-900 certified" src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge"/></a>
 →
 <a href="https://github.com/Eirina86/fabric-dp700-labs"><img alt="DP-700 in progress" src="https://img.shields.io/badge/DP--700-in%20progress-F2A900?style=for-the-badge"/></a>
+→
+<img alt="DP-600 planned" src="https://img.shields.io/badge/DP--600-planned-6E7681?style=for-the-badge"/>
 </p>
 
 | Step | Credential | Status | Applied in |
@@ -80,6 +75,7 @@
 | 2 | [AZ-900 — Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/8A20459994C98B6D?sharingId=8B61E949E106516B) | ✅ Earned during the bootcamp | [Homelab](https://github.com/Eirina86/homelab-azure-hybrid) · Azure Arc · restic → Azure Blob |
 | 2 | [DP-900 — Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/3B565E786A114DB2?sharingId=8B61E949E106516B) | ✅ Earned during the bootcamp | [Fabric DP-700 labs](https://github.com/Eirina86/fabric-dp700-labs) · Lakehouse · Delta |
 | 3 | DP-700 — Microsoft Fabric Data Engineer Associate | 🔄 In progress | [Fabric DP-700 labs](https://github.com/Eirina86/fabric-dp700-labs) · [Fabric portfolio](https://github.com/Eirina86/Irina_Cazacu) |
+| 4 | DP-600 — Microsoft Fabric Analytics Engineer Associate | ⏳ Planned | — |
 
 ---
 
