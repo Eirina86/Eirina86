@@ -62,14 +62,24 @@
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-### 🎓 Certifications
+### 🎓 Certification path
 
 <p>
+<img alt="Firebrand DP-203 bootcamp" src="https://img.shields.io/badge/Firebrand-DP--203%20Bootcamp-5C2D91?style=for-the-badge"/>
+→
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/8A20459994C98B6D?sharingId=8B61E949E106516B"><img alt="AZ-900 certified" src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge"/></a>
++
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/3B565E786A114DB2?sharingId=8B61E949E106516B"><img alt="DP-900 certified" src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge"/></a>
-<img alt="DP-700 in progress" src="https://img.shields.io/badge/DP--700-in%20progress-F2A900?style=for-the-badge"/>
-<img alt="Firebrand bootcamp" src="https://img.shields.io/badge/Firebrand-Azure%20Data%20Engineer%20Bootcamp-5C2D91?style=for-the-badge"/>
+→
+<a href="https://github.com/Eirina86/fabric-dp700-labs"><img alt="DP-700 in progress" src="https://img.shields.io/badge/DP--700-in%20progress-F2A900?style=for-the-badge"/></a>
 </p>
+
+| Step | Credential | Status | Applied in |
+|---|---|---|---|
+| 1 | Firebrand Azure Data Engineer bootcamp (DP-203) | DP-203 since retired by Microsoft | Foundation for the path below |
+| 2 | [AZ-900 — Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/8A20459994C98B6D?sharingId=8B61E949E106516B) | ✅ Earned during the bootcamp | [Homelab](https://github.com/Eirina86/homelab-azure-hybrid) · Azure Arc · restic → Azure Blob |
+| 2 | [DP-900 — Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/IrinaCazacu-3018/3B565E786A114DB2?sharingId=8B61E949E106516B) | ✅ Earned during the bootcamp | [Fabric DP-700 labs](https://github.com/Eirina86/fabric-dp700-labs) · Lakehouse · Delta |
+| 3 | DP-700 — Microsoft Fabric Data Engineer Associate | 🔄 In progress | [Fabric DP-700 labs](https://github.com/Eirina86/fabric-dp700-labs) · [Fabric portfolio](https://github.com/Eirina86/Irina_Cazacu) |
 
 ---
 
